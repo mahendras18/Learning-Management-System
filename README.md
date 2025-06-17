@@ -9,11 +9,9 @@ A full-stack web application designed to enable users to both teach and learn sk
 - Cloud Media Upload  
 - User Dashboard  
 - Dual Role Functionality  
-- Modular & Scalable System Architecture  
 - RESTful API Integration  
 - File Upload Handling  
 - Cross-Browser Compatible UI  
-- Postman-Ready API Testing
 
 ## Tech Stack
 
