@@ -15,7 +15,7 @@ A full-stack web application designed to enable users to both teach and learn sk
 - Cross-Browser Compatible UI  
 - Postman-Ready API Testing
 
-- ## Tech Stack
+## Tech Stack
 
 - Frontend: React.js  
 - Backend: Node.js, Express.js  
